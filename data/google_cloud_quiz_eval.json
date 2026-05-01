@@ -1,0 +1,602 @@
+[
+    {
+        "id": 74,
+        "question": "Why migrate to cloud?",
+        "options": {
+            "A": "Scalability and flexibility.",
+            "B": "Enable self-service analytics.",
+            "C": "Central analytics repository.",
+            "D": "Data without predefined format."
+        },
+        "answer_label": "A",
+        "answer_text": "Scalability and flexibility."
+    },
+    {
+        "id": 19,
+        "question": "What is SaaS?",
+        "options": {
+            "A": "Analyzing data for decisions.",
+            "B": "Software delivered via browser.",
+            "C": "Moving data.",
+            "D": "Text analysis API."
+        },
+        "answer_label": "B",
+        "answer_text": "Software delivered via browser."
+    },
+    {
+        "id": 119,
+        "question": "Why are audits important?",
+        "options": {
+            "A": "Avoid vendor lock-in.",
+            "B": "Improve scalability and agility.",
+            "C": "Total cost of ownership across infrastructure lifecycle.",
+            "D": "Validate security controls."
+        },
+        "answer_label": "D",
+        "answer_text": "Validate security controls."
+    },
+    {
+        "id": 79,
+        "question": "What is Kubernetes?",
+        "options": {
+            "A": "Container orchestration.",
+            "B": "Mathematical prediction models.",
+            "C": "Run VMware on Google Cloud.",
+            "D": "ML using SQL."
+        },
+        "answer_label": "A",
+        "answer_text": "Container orchestration."
+    },
+    {
+        "id": 77,
+        "question": "What are containers?",
+        "options": {
+            "A": "Encoding data for protection.",
+            "B": "Portable application packages.",
+            "C": "Volume of system requests.",
+            "D": "Reducing unnecessary spending."
+        },
+        "answer_label": "B",
+        "answer_text": "Portable application packages."
+    },
+    {
+        "id": 32,
+        "question": "What is metadata?",
+        "options": {
+            "A": "Cost management system.",
+            "B": "Unified ML platform.",
+            "C": "Verifying identity.",
+            "D": "Data describing other data."
+        },
+        "answer_label": "D",
+        "answer_text": "Data describing other data."
+    },
+    {
+        "id": 65,
+        "question": "What is Text-to-Speech?",
+        "options": {
+            "A": "Updating apps for cloud.",
+            "B": "Convert text to speech.",
+            "C": "Managed container platform.",
+            "D": "Performance metric."
+        },
+        "answer_label": "B",
+        "answer_text": "Convert text to speech."
+    },
+    {
+        "id": 142,
+        "question": "What is sustainability?",
+        "options": {
+            "A": "Faster deployment.",
+            "B": "IT resources hosted in an organization's data center.",
+            "C": "Reducing environmental impact.",
+            "D": "Development and operations collaboration."
+        },
+        "answer_label": "C",
+        "answer_text": "Reducing environmental impact."
+    },
+    {
+        "id": 69,
+        "question": "Why is data critical in AI?",
+        "options": {
+            "A": "ML using SQL.",
+            "B": "Models learn from data.",
+            "C": "Machines performing human-like tasks.",
+            "D": "Faster deployment."
+        },
+        "answer_label": "B",
+        "answer_text": "Models learn from data."
+    },
+    {
+        "id": 83,
+        "question": "What is Cloud Functions?",
+        "options": {
+            "A": "Event-driven compute.",
+            "B": "Ensure system resilience.",
+            "C": "Hybrid and multi-cloud management.",
+            "D": "Organized data stored in tables."
+        },
+        "answer_label": "A",
+        "answer_text": "Event-driven compute."
+    },
+    {
+        "id": 111,
+        "question": "What is data in transit?",
+        "options": {
+            "A": "Policies ensuring quality and compliance.",
+            "B": "Event-driven compute.",
+            "C": "Moving data.",
+            "D": "Reducing environmental impact."
+        },
+        "answer_label": "C",
+        "answer_text": "Moving data."
+    },
+    {
+        "id": 13,
+        "question": "What is bandwidth?",
+        "options": {
+            "A": "Amount of data transferred per time.",
+            "B": "Encoding data for protection.",
+            "C": "Unified ML platform.",
+            "D": "Event-driven compute."
+        },
+        "answer_label": "A",
+        "answer_text": "Amount of data transferred per time."
+    },
+    {
+        "id": 37,
+        "question": "What is Cloud Bigtable?",
+        "options": {
+            "A": "NoSQL big data database.",
+            "B": "Verifying identity.",
+            "C": "Demonstrating regulatory adherence.",
+            "D": "ML using SQL."
+        },
+        "answer_label": "A",
+        "answer_text": "NoSQL big data database."
+    },
+    {
+        "id": 10,
+        "question": "What is on-prem infrastructure?",
+        "options": {
+            "A": "Avoid vendor lock-in.",
+            "B": "Improve scalability and agility.",
+            "C": "IT resources hosted in an organization's data center.",
+            "D": "Portable application packages."
+        },
+        "answer_label": "C",
+        "answer_text": "IT resources hosted in an organization's data center."
+    },
+    {
+        "id": 20,
+        "question": "What is shared responsibility?",
+        "options": {
+            "A": "Streaming and batch processing service.",
+            "B": "Security duties split between provider and customer.",
+            "C": "DDoS protection service.",
+            "D": "System overload point."
+        },
+        "answer_label": "B",
+        "answer_text": "Security duties split between provider and customer."
+    },
+    {
+        "id": 57,
+        "question": "What problems suit AI?",
+        "options": {
+            "A": "Spending notifications.",
+            "B": "Using modern digital technologies including cloud to redesign business processes and customer experiences.",
+            "C": "Pattern recognition problems.",
+            "D": "Minimal access principle."
+        },
+        "answer_label": "C",
+        "answer_text": "Pattern recognition problems."
+    },
+    {
+        "id": 105,
+        "question": "What is authentication?",
+        "options": {
+            "A": "Verifying identity.",
+            "B": "Data describing other data.",
+            "C": "Adhering to regulations.",
+            "D": "API management platform."
+        },
+        "answer_label": "A",
+        "answer_text": "Verifying identity."
+    },
+    {
+        "id": 70,
+        "question": "What is rehosting?",
+        "options": {
+            "A": "Storage for all data types.",
+            "B": "Business intelligence platform.",
+            "C": "ML using SQL.",
+            "D": "Lift and shift migration."
+        },
+        "answer_label": "D",
+        "answer_text": "Lift and shift migration."
+    },
+    {
+        "id": 56,
+        "question": "How does ML differ from BI?",
+        "options": {
+            "A": "ML predicts; BI reports.",
+            "B": "Accuracy and completeness of data.",
+            "C": "Steps turning data into value.",
+            "D": "Managed Kubernetes service."
+        },
+        "answer_label": "A",
+        "answer_text": "ML predicts; BI reports."
+    },
+    {
+        "id": 133,
+        "question": "What is SLA?",
+        "options": {
+            "A": "By allowing rapid provisioning and experimentation.",
+            "B": "Improve scalability and agility.",
+            "C": "Service agreement guarantee.",
+            "D": "Encoding data for protection."
+        },
+        "answer_label": "C",
+        "answer_text": "Service agreement guarantee."
+    },
+    {
+        "id": 30,
+        "question": "What is a data lake?",
+        "options": {
+            "A": "Convert text to speech.",
+            "B": "Identity and access management platform.",
+            "C": "Storage for all data types.",
+            "D": "Scalability and flexibility."
+        },
+        "answer_label": "C",
+        "answer_text": "Storage for all data types."
+    },
+    {
+        "id": 128,
+        "question": "Why use labels?",
+        "options": {
+            "A": "Track resource costs.",
+            "B": "Globally scalable database.",
+            "C": "Amount of data transferred per time.",
+            "D": "Steps turning data into value."
+        },
+        "answer_label": "A",
+        "answer_text": "Track resource costs."
+    },
+    {
+        "id": 27,
+        "question": "What is semi-structured data?",
+        "options": {
+            "A": "Low-code ML training.",
+            "B": "Amount of data transferred per time.",
+            "C": "Run VMware on Google Cloud.",
+            "D": "Partially organized hierarchical data."
+        },
+        "answer_label": "D",
+        "answer_text": "Partially organized hierarchical data."
+    },
+    {
+        "id": 129,
+        "question": "What is cost optimization?",
+        "options": {
+            "A": "Deployment area within a region.",
+            "B": "ML predicts; BI reports.",
+            "C": "Cost tiers in Cloud Storage.",
+            "D": "Reducing unnecessary spending."
+        },
+        "answer_label": "D",
+        "answer_text": "Reducing unnecessary spending."
+    },
+    {
+        "id": 132,
+        "question": "What is SRE?",
+        "options": {
+            "A": "Text analysis API.",
+            "B": "Engineering for reliability.",
+            "C": "Layered security approach.",
+            "D": "Managing user identities."
+        },
+        "answer_label": "B",
+        "answer_text": "Engineering for reliability."
+    },
+    {
+        "id": 146,
+        "question": "What is Cloud Monitoring?",
+        "options": {
+            "A": "Infrastructure monitoring service.",
+            "B": "Deployment area within a region.",
+            "C": "Organized data stored in tables.",
+            "D": "Secure Google-built data centers."
+        },
+        "answer_label": "A",
+        "answer_text": "Infrastructure monitoring service."
+    },
+    {
+        "id": 109,
+        "question": "What is Cloud Armor?",
+        "options": {
+            "A": "Text analysis API.",
+            "B": "Business intelligence platform.",
+            "C": "DDoS protection service.",
+            "D": "Language translation API."
+        },
+        "answer_label": "C",
+        "answer_text": "DDoS protection service."
+    },
+    {
+        "id": 144,
+        "question": "What is fault tolerance?",
+        "options": {
+            "A": "Operate despite failures.",
+            "B": "By allowing rapid provisioning and experimentation.",
+            "C": "Virtualized server instance.",
+            "D": "Malware demanding ransom."
+        },
+        "answer_label": "A",
+        "answer_text": "Operate despite failures."
+    },
+    {
+        "id": 46,
+        "question": "How does BigQuery scale?",
+        "options": {
+            "A": "Faster deployment.",
+            "B": "Guaranteed uptime.",
+            "C": "Serverless distributed architecture.",
+            "D": "Hybrid and multi-cloud management."
+        },
+        "answer_label": "C",
+        "answer_text": "Serverless distributed architecture."
+    },
+    {
+        "id": 31,
+        "question": "What is data governance?",
+        "options": {
+            "A": "Language translation API.",
+            "B": "Software interface between systems.",
+            "C": "Policies ensuring quality and compliance.",
+            "D": "Transparent AI decisions."
+        },
+        "answer_label": "C",
+        "answer_text": "Policies ensuring quality and compliance."
+    },
+    {
+        "id": 23,
+        "question": "What is private cloud?",
+        "options": {
+            "A": "Response time delay.",
+            "B": "Using multiple cloud providers.",
+            "C": "Dedicated cloud environment for one org.",
+            "D": "Real-time data processing."
+        },
+        "answer_label": "C",
+        "answer_text": "Dedicated cloud environment for one org."
+    },
+    {
+        "id": 16,
+        "question": "What is open source?",
+        "options": {
+            "A": "Accuracy and completeness of data.",
+            "B": "Event-driven compute.",
+            "C": "Publicly accessible source code software.",
+            "D": "Data describing other data."
+        },
+        "answer_label": "C",
+        "answer_text": "Publicly accessible source code software."
+    },
+    {
+        "id": 66,
+        "question": "Why use pre-trained APIs?",
+        "options": {
+            "A": "Development and operations collaboration.",
+            "B": "Faster deployment.",
+            "C": "Enable self-service analytics.",
+            "D": "Reducing environmental impact."
+        },
+        "answer_label": "B",
+        "answer_text": "Faster deployment."
+    },
+    {
+        "id": 12,
+        "question": "What is a zone?",
+        "options": {
+            "A": "Business intelligence platform.",
+            "B": "Image analysis API.",
+            "C": "Deployment area within a region.",
+            "D": "Platform for app development in cloud."
+        },
+        "answer_label": "C",
+        "answer_text": "Deployment area within a region."
+    },
+    {
+        "id": 43,
+        "question": "What is Pub/Sub?",
+        "options": {
+            "A": "By allowing rapid provisioning and experimentation.",
+            "B": "Messaging service for event streams.",
+            "C": "Storage for all data types.",
+            "D": "Improve scalability and agility."
+        },
+        "answer_label": "B",
+        "answer_text": "Messaging service for event streams."
+    },
+    {
+        "id": 147,
+        "question": "What is Cloud Logging?",
+        "options": {
+            "A": "IT resources hosted in an organization's data center.",
+            "B": "Open source ML framework.",
+            "C": "Log management service.",
+            "D": "Cost analysis reports."
+        },
+        "answer_label": "C",
+        "answer_text": "Log management service."
+    },
+    {
+        "id": 52,
+        "question": "What is data quality?",
+        "options": {
+            "A": "Deployment area within a region.",
+            "B": "Spending notifications.",
+            "C": "Ethical AI deployment.",
+            "D": "Accuracy and completeness of data."
+        },
+        "answer_label": "D",
+        "answer_text": "Accuracy and completeness of data."
+    },
+    {
+        "id": 28,
+        "question": "What is business intelligence?",
+        "options": {
+            "A": "Analyzing data for decisions.",
+            "B": "Convert text to speech.",
+            "C": "Improve scalability and agility.",
+            "D": "Text analysis API."
+        },
+        "answer_label": "A",
+        "answer_text": "Analyzing data for decisions."
+    },
+    {
+        "id": 5,
+        "question": "What is CapEx?",
+        "options": {
+            "A": "Managing user identities.",
+            "B": "Track performance health.",
+            "C": "Upfront capital expenditures.",
+            "D": "Streaming and batch processing service."
+        },
+        "answer_label": "C",
+        "answer_text": "Upfront capital expenditures."
+    },
+    {
+        "id": 33,
+        "question": "What is BigQuery?",
+        "options": {
+            "A": "Security and operations collaboration.",
+            "B": "PaaS for web apps.",
+            "C": "Google Cloud enterprise data warehouse.",
+            "D": "Layered security approach."
+        },
+        "answer_label": "C",
+        "answer_text": "Google Cloud enterprise data warehouse."
+    },
+    {
+        "id": 143,
+        "question": "How does Google support sustainability?",
+        "options": {
+            "A": "Energy-efficient data centers.",
+            "B": "Cost analysis reports.",
+            "C": "Avoid vendor lock-in.",
+            "D": "Reports on government requests."
+        },
+        "answer_label": "A",
+        "answer_text": "Energy-efficient data centers."
+    },
+    {
+        "id": 86,
+        "question": "What is Apigee?",
+        "options": {
+            "A": "Guaranteed uptime.",
+            "B": "Object storage service.",
+            "C": "API management platform.",
+            "D": "Central analytics repository."
+        },
+        "answer_label": "C",
+        "answer_text": "API management platform."
+    },
+    {
+        "id": 87,
+        "question": "What is App Engine?",
+        "options": {
+            "A": "Image analysis API.",
+            "B": "PaaS for web apps.",
+            "C": "Language translation API.",
+            "D": "Track performance health."
+        },
+        "answer_label": "B",
+        "answer_text": "PaaS for web apps."
+    },
+    {
+        "id": 17,
+        "question": "What is IaaS?",
+        "options": {
+            "A": "Infrastructure delivered as a service.",
+            "B": "Streaming and batch processing service.",
+            "C": "Defines and measures reliability targets.",
+            "D": "Globally scalable database."
+        },
+        "answer_label": "A",
+        "answer_text": "Infrastructure delivered as a service."
+    },
+    {
+        "id": 11,
+        "question": "What is a region?",
+        "options": {
+            "A": "Independent geographic area of cloud deployment.",
+            "B": "Infrastructure monitoring service.",
+            "C": "App development platform.",
+            "D": "Recurring operational expenses."
+        },
+        "answer_label": "A",
+        "answer_text": "Independent geographic area of cloud deployment."
+    },
+    {
+        "id": 82,
+        "question": "What is Cloud Run?",
+        "options": {
+            "A": "Object storage service.",
+            "B": "Managed container platform.",
+            "C": "Reducing environmental impact.",
+            "D": "Secure Google-built data centers."
+        },
+        "answer_label": "B",
+        "answer_text": "Managed container platform."
+    },
+    {
+        "id": 134,
+        "question": "What is SLO?",
+        "options": {
+            "A": "Dedicated cloud environment for one org.",
+            "B": "Through distributed global infrastructure.",
+            "C": "Identity and access management platform.",
+            "D": "Performance target."
+        },
+        "answer_label": "D",
+        "answer_text": "Performance target."
+    },
+    {
+        "id": 138,
+        "question": "What is latency?",
+        "options": {
+            "A": "Response time delay.",
+            "B": "Control of personal data.",
+            "C": "Enable self-service analytics.",
+            "D": "Real-time data processing."
+        },
+        "answer_label": "A",
+        "answer_text": "Response time delay."
+    },
+    {
+        "id": 76,
+        "question": "What is Bare Metal?",
+        "options": {
+            "A": "Track performance health.",
+            "B": "Image analysis API.",
+            "C": "Dedicated hardware service.",
+            "D": "Policies ensuring quality and compliance."
+        },
+        "answer_label": "C",
+        "answer_text": "Dedicated hardware service."
+    },
+    {
+        "id": 110,
+        "question": "What is data at rest?",
+        "options": {
+            "A": "Lift and shift migration.",
+            "B": "Validate security controls.",
+            "C": "Extra login verification.",
+            "D": "Stored data."
+        },
+        "answer_label": "D",
+        "answer_text": "Stored data."
+    }
+]
